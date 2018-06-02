@@ -1,3 +1,4 @@
 test of feature branch
 //on git, our designers use branches for keeping bug fixes and feature work separate from our master (production) branch.
 //saved changes are called commits
+//Click the Pull Request tab, then from the Pull Request page, click the green New pull request button.
